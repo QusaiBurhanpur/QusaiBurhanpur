@@ -24,7 +24,7 @@
 ### 📫 Connect with Me  
 - ✉️ Email: **qusaiburhanpurwala@gmail.com**  
 - 🌍 Portfolio: [https://qusai.vercel.app](https://qusai.vercel.app)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/qusai-burhanpurwala](https://www.linkedin.com/in/qusai-burhanpurwala-6483a1313/)
+- 💼 LinkedIn: [linkedin.com/in/qusai-burhanpurwala](https://www.linkedin.com/in/qusai-burhanpurwala-6483a1313/)
 
 ---
 ⭐️ *Thanks for visiting my GitHub profile!*
