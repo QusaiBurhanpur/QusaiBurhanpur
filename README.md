@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Qusai Burhanpurwala  
 
-<!--
-**QusaiBurhanpur/QusaiBurhanpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Web Developer Intern @ Qubescape  
+🌱 Skilled in **React, Next.js, Django** and currently learning **Cybersecurity**  
+🚀 Passionate about building web applications and solving problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools  
+- Frontend: React, Next.js, Tailwind CSS  
+- Backend: Django, Node.js (basics)  
+- Database: MySQL, MongoDB  
+- Other: Git, GitHub, Digital Marketing  
+
+---
+
+### 📂 Projects  
+- 🌐 [Portfolio Website](#) – My personal portfolio built with Next.js  
+- 🛒 [E-commerce Website](#) – Full-stack online store with cart & payment  
+- 📊 [Dashboard App](#) – Admin dashboard with analytics  
+
+---
+
+### 📫 Connect with Me  
+- ✉️ Email: **qusaiburhanpurwala@gmail.com**  
+- 🌍 Portfolio: [https://qusai.vercel.app](https://qusai.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/qusai-burhanpurwala](#)  
+
+---
+⭐️ *Thanks for visiting my GitHub profile!*
